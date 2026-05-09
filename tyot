@@ -1,0 +1,24 @@
+{
+  "otsikko": "Avoimet työpaikat",
+  "paivitetty": "09.05.2026",
+  "tyopaikat": [
+    {
+      "tehtava": "Myyjä",
+      "yritys": "Intersport",
+      "sijainti": "Helsinki",
+      "palkkaus": "13,50 €/h"
+    },
+    {
+      "tehtava": "Asiakaspalvelija",
+      "yritys": "K-Market",
+      "sijainti": "Espoo",
+      "palkkaus": "14,20 €/h"
+    },
+    {
+      "tehtava": "Varastotyöntekijä",
+      "yritys": "Posti",
+      "sijainti": "Vantaa",
+      "palkkaus": "15,00 €/h"
+    }
+  ]
+}
